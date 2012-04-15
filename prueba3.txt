@@ -1,1 +1,2 @@
 es la primer linea
+Esta línea se agregó con SVN.
